@@ -1,0 +1,9 @@
+----------------------
+Installationsanleitung
+----------------------
+
+1. MySQL-Dump "2014_12.sql" importieren
+2. Ordner 2014_12_proto in Webserver-Root-Ordner kopieren
+3. Berechtigungen ändern (Vollzugriff am besten setzen)
+4. Seite http://localhost/2014_12_proto/index.php
+5. User: admin Passwort: admin
